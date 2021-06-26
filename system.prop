@@ -1,0 +1,7 @@
+# OnePlus
+ro.build.product=OnePlus9Pro
+ro.product.brand=OnePlus
+ro.product.device=OnePlus9Pro
+ro.product.manufacturer=OnePlus
+ro.vendor.product.manufacturer.db=OP_PHONE
+ro.vendor.product.device.db=OP_DEVICE
