@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_lemonadep.mk
+    $(LOCAL_DIR)/spark_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_lemonadep-user \
-    aosp_lemonadep-userdebug \
-    aosp_lemonadep-eng
+    spark_lemonadep-user \
+    spark_lemonadep-userdebug \
+    spark_lemonadep-eng
